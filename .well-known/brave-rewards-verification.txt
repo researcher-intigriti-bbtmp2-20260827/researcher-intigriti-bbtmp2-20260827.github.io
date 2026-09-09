@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: glssectest0716.xyz
+Token: 7c0169d4a39b0e5a1f46c0b81ea49bbfdcb56c724930eec313bd4df33ca51d24
